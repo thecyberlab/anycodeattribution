@@ -1,0 +1,36 @@
+==============  ==========
+Class             Accuracy
+==============  ==========
+BalaBala                 1
+Bard                     1
+Basimooo7                1
+BeautifulTimes           1
+Canntprogram             1
+Carisuuuu                1
+Cata                     1
+DigiEarth                1
+Lawli                    1
+bachung                  1
+chatgpt                  1
+cling                    1
+daffy                    1
+davidarcila              1
+dlmasa                   1
+efimikvitaliy            1
+egaeus                   1
+gajanandjha              1
+gedrox                   1
+ght81                    1
+gledian                  1
+jaaannnaaa               1
+==============  ==========
+====================  =========  ============  =======  ========  ========  =========
+Model                   CV.Acc.    +/- 2*Std.    Folds    CV.Min    CV.Max  Elapsed
+====================  =========  ============  =======  ========  ========  =========
+DecisionTree           0.986486     0.0241737        5  0.972973  1         0:00:00
+ExtraTreesClassifier   1            0                5  1         1         0:00:00
+RandomForest           1            0                5  1         1         0:00:00
+Neural-Net             1            0                5  1         1         0:00:04
+GaussianNB             1            0                5  1         1         0:00:00
+LinearDiscriminant     0.921288     0.0623477        5  0.864865  0.958904  0:00:00
+====================  =========  ============  =======  ========  ========  =========

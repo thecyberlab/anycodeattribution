@@ -1,0 +1,19 @@
+{
+  "extension": ".java",
+  "separator": "/",
+  "valid_grams": "kothari_valid.txt",
+  "temp_file": "kothari_tempgrams.txt",
+  "all_file": "kothari_allgrams.txt",
+  "total_frequencies": "kothari_all_freqs.txt",
+  "result_file_?": "kothari_?-?.arff",
+  "result_file_0": "kothari_0-9.arff",
+  "result_file_a": "kothari_a-d.arff",
+  "result_file_e": "kothari_e-h.arff",
+  "result_file_i": "kothari_i-l.arff",
+  "result_file_m": "kothari_m-p.arff",
+  "result_file_q": "kothari_q-t.arff",
+  "result_file_u": "kothari_u-x.arff",
+  "result_file_y": "kothari_y-z.arff",
+  "result_file": "kothari.arff",
+  "result_file_csv": "kothari_results.csv"
+}
