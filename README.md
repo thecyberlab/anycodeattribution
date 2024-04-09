@@ -1,4 +1,4 @@
-This library runs the selected attribution methods from the displayed list and runs machine learning algorithms from the features populated to determine authorship accuracy.
+The generic library for code attribution. This library runs the selected attribution methods from the displayed list and runs machine learning algorithms from the features populated to determine authorship accuracy.
 
 Point to the scripts directory and run $ ./run_shell_script.sh
 
